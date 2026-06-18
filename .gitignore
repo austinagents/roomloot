@@ -1,0 +1,14 @@
+.DS_Store
+node_modules/
+.next/
+out/
+dist/
+coverage/
+*.tsbuildinfo
+.env
+.env.local
+.vercel/
+*.xcuserdata/
+DerivedData/
+build/
+*.swp
